@@ -1,8 +1,22 @@
 ## Welcome to my GitHub 👋
 
- am an Web Developer and I’m currently learning about:
+At moment I'm working with:
+
+- **SASS/CSS**
+- **JS/React**
+- **JSP**
+
+ I'm an Web Developer and I’m currently learning about:
+ 
 - **Atomic Design**
 - **Accessibility**
+- **Material Design**
+
+I find it easy to do:
+
+- **frontend builds and modules**
+- **CSS and your strategies** (components, helpers, structure, resets...)
+- **functional programming**
 
 <!--
 **jomarcardoso/jomarcardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
