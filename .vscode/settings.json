@@ -1,0 +1,32 @@
+{
+  "editor.formatOnSave": true,
+  "git.confirmSync": false,
+  "search.exclude": {
+    "**/*.snap": true,
+    "**/dist": true,
+    "**/yarn.lock": true,
+    "yarn.lock": true
+  },
+  "editor.tabSize": 2,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "files.trimTrailingWhitespace": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "javascript.format.semicolons": "insert",
+  "javascript.preferences.quoteStyle": "single",
+  "javascript.format.insertSpaceAfterConstructor": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "git.autofetch": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "window.zoomLevel": 0,
+  "stylelint.autoFixOnSave": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.fontSize": 15,
+  "explorer.confirmDelete": false,
+  "editor.suggestSelection": "first"
+}
