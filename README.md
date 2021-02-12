@@ -18,6 +18,11 @@ I find it easy to do:
 - **CSS and your strategies** (components, helpers, structure, resets...)
 - **functional programming**
 
+And these are my main jobs:
+
+- **[Library: Ovos](https://github.com/jomarcardoso/ovos)**
+- **[App: "Saúde em Pontos"](https://github.com/jomarcardoso/saude-em-pontos-2)**
+
 <!--
 **jomarcardoso/jomarcardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
