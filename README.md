@@ -27,7 +27,7 @@ These are my main jobs:
 And my articles [PT-BR]:
 
 - **[JS Modules](https://github.com/jomarcardoso/dojo-jsmodules)**
-- **[Atomic Design](https://github.com/jomarcardoso/dojo-AtomicDesign)
+- **[Atomic Design](https://github.com/jomarcardoso/dojo-AtomicDesign)**
 - **[Github and Jenkins](https://github.com/jomarcardoso/dojo-GitHubAndJenkins)**
 - **[TypeScript vs JavaScript](https://github.com/jomarcardoso/dojo-typescript-vs-javascript)**
 - **[Redux](https://github.com/jomarcardoso/dojo-Redux)**
