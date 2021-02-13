@@ -24,7 +24,7 @@ These are my main jobs:
 - **[App: "Saúde em Pontos" [PT-BR]](https://github.com/jomarcardoso/saude-em-pontos-2)**
 - **[Frontend Course [PT-BR]](https://github.com/jomarcardoso/curso-frontend)**
 
-And my articles [PT-BR]:
+My articles [PT-BR]:
 
 - [JS Modules](https://github.com/jomarcardoso/dojo-jsmodules)
 - [Atomic Design](https://github.com/jomarcardoso/dojo-AtomicDesign)
@@ -47,6 +47,9 @@ And my articles [PT-BR]:
 - [🔭 AMP Render](https://github.com/jomarcardoso/dojo-AmpRender)
 - [🔭 JS + TS](https://github.com/jomarcardoso/typeScriptLess)
 
+And these are the projects that I contributed
+
+- [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y)
 
 <!--
 **jomarcardoso/jomarcardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
