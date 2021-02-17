@@ -26,6 +26,7 @@ These are my main jobs:
 
 My articles [PT-BR]:
 
+- [Web Accesssibility Implementation Model](https://onedrive.live.com/?authkey=%21AAeLShjixe9fz84&cid=00664A182AE91239&id=664A182AE91239%2156186&parId=664A182AE91239%2155844&o=OneUp)
 - [JS Modules](https://github.com/jomarcardoso/dojo-jsmodules)
 - [Atomic Design](https://github.com/jomarcardoso/dojo-AtomicDesign)
 - [Github and Jenkins](https://github.com/jomarcardoso/dojo-GitHubAndJenkins)
