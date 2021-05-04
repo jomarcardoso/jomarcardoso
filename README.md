@@ -2,15 +2,40 @@
 
 At moment I'm working with:
 
-- **SASS/CSS**
-- **JS/React**
-- **JSP**
+**JavasSript** 
 
- I'm an Web Developer and I’m currently learning about:
+TypeScript, React.JS, funcional programing, Jest.
+
+**CSS**
+
+Atomic Design, Design System, SASS.
+
+**SSR**
+
+Gatsby, JSP,
+
+**Acessibility**
+
+W3C Directives, eMag.
+
+**DevOps**
+
+Travis CI, Jenkins Pipeline, Monorepos, Webpack, Gulp.
+
+**Google**
+
+Tag Manager, Optimize, Analytics.
+
+**Minor knowledge**
+
+Express, SQL, Java, Orientation Object, Gimp.
+
+---
+
+I'm an Web Developer and I’m currently learning about:
  
-- **Atomic Design**
-- **Accessibility**
 - **Material Design**
+- **Digital marketing**
 
 I find it easy to do:
 
