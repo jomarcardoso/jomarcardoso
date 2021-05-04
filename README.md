@@ -26,6 +26,7 @@ I find it easy to do:
 - **frontend builds and modules**
 - **CSS and your strategies** (components, helpers, structure, resets...)
 - **functional programming**
+- **to teach**
 
 These are my main jobs:
 
