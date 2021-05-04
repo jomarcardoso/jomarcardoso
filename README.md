@@ -2,35 +2,19 @@
 
 At moment I'm working with:
 
-**JavasSript** 
+**JavasSript:** TypeScript, React.JS, funcional programing, Jest.
 
-TypeScript, React.JS, funcional programing, Jest.
+**CSS:** Atomic Design, Design System, SASS.
 
-**CSS**
+**SSR:** Gatsby, JSP,
 
-Atomic Design, Design System, SASS.
+**Acessibility:** W3C Directives, eMag.
 
-**SSR**
+**DevOps:** Travis CI, Jenkins Pipeline, Monorepos, Webpack, Gulp.
 
-Gatsby, JSP,
+**Google:** Tag Manager, Optimize, Analytics.
 
-**Acessibility**
-
-W3C Directives, eMag.
-
-**DevOps**
-
-Travis CI, Jenkins Pipeline, Monorepos, Webpack, Gulp.
-
-**Google**
-
-Tag Manager, Optimize, Analytics.
-
-**Minor knowledge**
-
-Express, SQL, Java, Orientation Object, Gimp.
-
----
+**Minor knowledge:** Express, SQL, Java, Orientation Object, Gimp.
 
 I'm an Web Developer and I’m currently learning about:
  
