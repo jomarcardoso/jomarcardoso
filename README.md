@@ -1,25 +1,21 @@
 ## Hi, I am Jomar Antônio Cardoso
 
-At moment I'm working with:
+My knowledges:
 
-**JavasSript:** TypeScript, React.JS, funcional programing, Jest.
-
-**CSS:** Atomic Design, Design System, SASS.
-
-**SSR:** Gatsby, JSP,
-
-**Acessibility:** W3C Directives, eMag.
-
-**DevOps:** Travis CI, Jenkins Pipeline, Monorepos, Webpack, Gulp.
-
-**Google:** Tag Manager, Optimize, Analytics.
-
-**Minor knowledge:** Express, SQL, Java, Orientation Object, Gimp.
+- **JavasSript:** TypeScript, React.JS, funcional programing, Jest.
+- **CSS:** Atomic Design, Design System, SASS.
+- **SSR:** Gatsby, JSP, AMP,
+- **Acessibility:** W3C Directives, eMag.
+- **DevOps:** Travis CI, Jenkins Pipeline, Monorepos, Webpack, Gulp.
+- **Google:** Tag Manager, Optimize, Analytics.
+- **Minor knowledge:** Express, SQL, Java, Orientation Object, Gimp.
 
 I'm an Web Developer and I’m currently learning about:
  
 - **Material Design**
 - **Digital marketing**
+- **Angular**
+- **Firebase**
 
 I find it easy to do:
 
@@ -31,8 +27,15 @@ I find it easy to do:
 These are my main jobs:
 
 - **[Library: Ovos](https://github.com/jomarcardoso/ovos)**
+  - TypeScript 
 - **[App: "Saúde em Pontos" [PT-BR]](https://github.com/jomarcardoso/saude-em-pontos-2)**
+  - Gatsby
+  - TypeScript
+  - Material UI
 - **[Frontend Course [PT-BR]](https://github.com/jomarcardoso/curso-frontend)**
+- **[Mabook](https://github.com/jomarcardoso/mabook)**
+  - Angular
+  - Firebase 
 
 My articles [PT-BR]:
 
