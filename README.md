@@ -35,7 +35,8 @@ These are my main jobs:
 - **[Frontend Course [PT-BR]](https://github.com/jomarcardoso/curso-frontend)**
 - **[Mabook](https://github.com/jomarcardoso/mabook)**
   - Angular
-  - Firebase 
+  - Firebase
+  - Bootstrap
 
 My articles [PT-BR]:
 
