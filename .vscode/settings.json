@@ -19,11 +19,14 @@
   "javascript.preferences.quoteStyle": "single",
   "javascript.format.insertSpaceAfterConstructor": true,
   "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
-  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "terminal.integrated.profiles.osx":  {
+    "bash": {
+      "path": "C:\\Program Files\\Git\\bin\\bash.exe"
+    }
+  },
   "git.autofetch": true,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "window.zoomLevel": 0,
   "stylelint.autoFixOnSave": true,
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.fontSize": 15,
