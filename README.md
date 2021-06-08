@@ -27,7 +27,8 @@ I find it easy to do:
 These are my main jobs:
 
 - **[Library: Ovos](https://github.com/jomarcardoso/ovos)**
-  - TypeScript 
+  - TypeScript
+  - RxJS
 - **[App: "Saúde em Pontos" [PT-BR]](https://github.com/jomarcardoso/saude-em-pontos-2)**
   - Gatsby
   - TypeScript
