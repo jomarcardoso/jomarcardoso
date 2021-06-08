@@ -1,4 +1,8 @@
 {
+  "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
+  "[php]": {
+    "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?",
+  }
   "editor.formatOnSave": true,
   "git.confirmSync": false,
   "search.exclude": {
