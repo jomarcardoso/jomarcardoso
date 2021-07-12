@@ -18,6 +18,8 @@ I'm an Web Developer and I’m currently learning about:
 - **Digital marketing**
 - **Angular**
 - **Firebase**
+- **RxJS**
+- **Web Components**
 
 I find it easy to do:
 
