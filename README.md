@@ -56,6 +56,7 @@ My articles [PT-BR]:
 - [WCAG](https://github.com/jomarcardoso/article-diretrizes-de-acessibilidade-wcag)
 - [Accessibility and Universal Design](https://github.com/jomarcardoso/accessibility-and-universal-design)
 - [Refactoring](https://github.com/jomarcardoso/dojo-refactoring)
+- [🔭 TypeScriptLess](https://github.com/jomarcardoso/dojo-typeScriptLess)
 - [🔭 Do not trust developers](https://github.com/jomarcardoso/dojo-escapeFromHelpOnJS)
 - [🔭 Visual Components](https://github.com/jomarcardoso/visual-components)
 - [🔭 CSS Components](https://github.com/jomarcardoso/dojo-css-components)
