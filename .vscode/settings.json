@@ -1,24 +1,19 @@
 {
+  // ### editor ###
   "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
-  "[php]": {
-    "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?",
-  },
   "editor.formatOnSave": true,
-  "git.confirmSync": false,
-  "search.exclude": {
-    "**/*.snap": true,
-    "**/dist": true,
-    "**/yarn.lock": true,
-    "yarn.lock": true
-  },
   "editor.tabSize": 2,
   "editor.linkedEditing": true,
-  "emmet.includeLanguages": {
-    "javascript": "javascriptreact"
-  },
-  "files.trimTrailingWhitespace": true,
+  // passa a bola para extensões como prettier e stylelint
   "editor.codeActionsOnSave": {
     "source.fixAll": true
+  },
+  "files.trimTrailingWhitespace": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // ### JS/TS ###
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
   },
   "javascript.format.semicolons": "insert",
   "typescript.format.semicolons": "insert",
@@ -28,18 +23,28 @@
   "typescript.format.insertSpaceAfterConstructor": true,
   "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
   "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
-  "git.autofetch": true,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "javascript.updateImportsOnFileMove.enabled": "always",
+
+  // ### CSS/SCSS ###
   "stylelint.autoFixOnSave": true,
-  "diffEditor.ignoreTrimWhitespace": false,
-  "editor.fontSize": 15,
-  "explorer.confirmDelete": false,
-  "editor.suggestSelection": "first",
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // ### HTML ###
   "[html]": {
-    "editor.defaultFormatter": "vscode.html-language-features"
+    // pois o prettier não faz isso bem
+    "editor.defaultFormatter": "vscode.html-language-features",
   },
+  "html.format.wrapLineLength": 80,
+  // quebra a linha de uma forma inteligente
+  "html.format.wrapAttributes": "preserve",
+
+  // ### PHP ###
+  "[php]": {
+    "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?",
+  },
+
+  // ### terminal ###
+
   "terminal.integrated.profiles.osx":  {
     "bash": {
       "path": "C:\\Program Files\\Git\\bin\\bash.exe"
@@ -48,44 +53,20 @@
   "terminal.external.windowsExec": "C:\\Program Files\\Git\\bin\\bash.exe",
   "terminal.integrated.automationShell.windows": null,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  // "terminal.integrated.profiles.windows": {
-  //   "PowerShell": {
-  //     "path": [
-  //         "${env:windir}\\Sysnative\\WindowsPowerShell\\v1.0\\powershell.exe",
-  //         "${env:windir}\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
-  //     ],
-  //     "source": "PowerShell",
-  //     "icon": "terminal-powershell",
-  //     "args": [
-  //       "-NoLogo",
-  //       "-ExecutionPolicy",
-  //       "Bypass"
-  //     ]
-  //   },
-  //   "Command Prompt": {
-  //     "path": [
-  //       "${env:windir}\\Sysnative\\cmd.exe",
-  //       "${env:windir}\\System32\\cmd.exe"
-  //     ],
-  //     "icon": "terminal-cmd"
-  //   },
-  //   //START: THIS DOES NOT WORK
-  //   "Git Bash": {
-  //     "path": [
-  //       "C:\\Program Files\\Git\\bin\\bash.exe",
-  //     ],
-  //     "source": "Git Bash",
-  //     "icon": "terminal-bash"
-  //   }
-  //   // END: THIS DOES NOT WORK
 
-  //   //START: THIS WORKS
-  //   "GitBash": {
-  //     "path": [
-  //       "C:\\Program Files\\Git\\bin\\bash.exe",
-  //     ],
-  //     "icon": "terminal-bash"
-  //   }
-  //   // END: THIS WORKS
-  // }
+  // ### git ###
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+
+  // ### outros ###
+  "search.exclude": {
+    "**/*.snap": true,
+    "**/dist": true,
+    "**/yarn.lock": true,
+    "yarn.lock": true
+  },
+  "editor.fontSize": 15,
+  "explorer.confirmDelete": false,
+  "editor.suggestSelection": "first",
 }
