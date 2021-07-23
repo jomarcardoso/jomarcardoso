@@ -28,6 +28,9 @@
 
   // ### CSS/SCSS ###
   "stylelint.autoFixOnSave": true,
+  "[scss]": {
+    "editor.wordSeparators": "`~!@#%^*()-=+[{]}\\|;:'\",.<>/?"
+  },
 
   // ### HTML ###
   "[html]": {
