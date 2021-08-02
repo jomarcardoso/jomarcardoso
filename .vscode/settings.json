@@ -12,6 +12,7 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
 
   // ### JS/TS ###
+  "tslint.autoFixOnSave": true,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
