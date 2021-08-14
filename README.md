@@ -1,9 +1,6 @@
 ## Hi, I am Jomar Antônio Cardoso
 
-[![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jomar-ant%C3%B4nio-cardoso/)
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC689JNOcH-yHaAy0kGW-peA)
-[![](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonionetocardoso@gmail.com)
-
+[![linkedin](https://camo.githubusercontent.com/b1f335050cf5b580ab63ca56a02c4e0f857ab60446ee7f313db7f3cc38cc1c2b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6775696c6865726d652d73697175696e656c6c692d32303132613636382f)](https://www.linkedin.com/in/jomar-ant%C3%B4nio-cardoso/)
 
  <div>
   <a href="https://github.com/jomarcardoso">
@@ -14,7 +11,18 @@
 
 <br>
 
-My knowledges:
+I'm an Web Developer and I’m currently learning about:
+ 
+- **Design system**
+- **Motion design**
+- **Material Design**
+- **Design Tokens**
+- **Digital marketing**
+- **Angular**
+- **RxJS**
+- **Web Components**
+
+My tecnology knowledges:
 
 - **JavasSript:** TypeScript, React.JS, funcional programing, Jest.
 - **CSS:** Atomic Design, Design System, SASS.
@@ -24,17 +32,9 @@ My knowledges:
 - **Google:** Tag Manager, Optimize, Analytics.
 - **Minor knowledge:** Express, SQL, Java, Orientation Object, Gimp.
 
-I'm an Web Developer and I’m currently learning about:
- 
-- **Material Design**
-- **Digital marketing**
-- **Angular**
-- **Firebase**
-- **RxJS**
-- **Web Components**
-
 I find it easy to do:
 
+- **apply accessibility**
 - **frontend builds and modules**
 - **CSS and your strategies** (components, helpers, structure, resets...)
 - **functional programming**
