@@ -71,7 +71,6 @@ My articles [PT-BR]:
 - [Refactoring](https://github.com/jomarcardoso/dojo-refactoring)
 - [Documentação de softwares para usuários](https://github.com/jomarcardoso/dojo-userDocumentations)
 - [Commponentes visuais com BEM CSS](https://github.com/jomarcardoso/dojo-css-components)
-- [CSS BEM (apresentação)](https://docs.google.com/presentation/d/1aOsFQ0msCtab9DNVAfLWIcVljhDSExvGzsUox_UqZ1g/edit?usp=sharing)
 - [Como React funciona](https://github.com/jomarcardoso/quickly-how-react-works)
 - [🔭 TypeScriptLess](https://github.com/jomarcardoso/dojo-typeScriptLess)
 - [🔭 Do not trust developers](https://github.com/jomarcardoso/dojo-escapeFromHelpOnJS)
