@@ -4,6 +4,7 @@
   "editor.formatOnSave": true,
   "editor.tabSize": 2,
   "editor.linkedEditing": true,
+  "editor.rulers": [80],
   // passa a bola para extensões como prettier e stylelint
   "editor.codeActionsOnSave": {
     "source.fixAll": true
