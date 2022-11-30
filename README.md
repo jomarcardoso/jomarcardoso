@@ -38,7 +38,7 @@ I find it easy to do:
 - **functional programming**
 - **to teach**
 
-These are my main jobs:
+My work:
 
 - **[Library: Ovos](https://github.com/jomarcardoso/ovos)**
   - TypeScript
