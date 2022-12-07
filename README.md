@@ -85,6 +85,7 @@ My articles [PT-BR]:
 - [🔭 CSS responsive without media](https://github.com/jomarcardoso/dojo-ResponsiveWithNoMedia)
 - [🔭 AMP Render](https://github.com/jomarcardoso/dojo-AmpRender)
 - [🔭 JS + TS](https://github.com/jomarcardoso/typeScriptLess)
+- [🔭 Você não deveria se envergonhar de usar isso!](https://github.com/jomarcardoso/you-shouldn-t-be-ashamed-for-using-this/blob/main/README.md)
 
 And these are the projects that I contributed
 
