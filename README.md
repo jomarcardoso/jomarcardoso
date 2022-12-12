@@ -86,7 +86,8 @@ My articles [PT-BR]:
 - [🔭 AMP Render](https://github.com/jomarcardoso/dojo-AmpRender)
 - [🔭 JS + TS](https://github.com/jomarcardoso/typeScriptLess)
 - [🔭 Você não deveria se envergonhar de usar isso!](https://github.com/jomarcardoso/you-shouldn-t-be-ashamed-for-using-this/blob/main/README.md)
-- [Resumo Atomic Design(https://github.com/jomarcardoso/atomic-design-summary/blob/main/README.md)
+- [🔭 Resumo Atomic Design(https://github.com/jomarcardoso/atomic-design-summary/blob/main/README.md)
+- [🔭 Metodologias CSS](https://github.com/jomarcardoso/css-metologogies/blob/main/README.md)
 
 And these are the projects that I contributed
 
