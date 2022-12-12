@@ -88,6 +88,7 @@ My articles [PT-BR]:
 - [🔭 Você não deveria se envergonhar de usar isso!](https://github.com/jomarcardoso/you-shouldn-t-be-ashamed-for-using-this/blob/main/README.md)
 - [🔭 Resumo Atomic Design](https://github.com/jomarcardoso/atomic-design-summary/blob/main/README.md)
 - [🔭 Metodologias CSS](https://github.com/jomarcardoso/css-metologogies/blob/main/README.md)
+- [🔭 Tipos avançados em TypeScript](https://github.com/jomarcardoso/advanced-types-typescript/blob/main/README.md)
 
 And these are the projects that I contributed
 
