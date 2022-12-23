@@ -89,6 +89,7 @@ My articles [PT-BR]:
 - [🔭 Resumo Atomic Design](https://github.com/jomarcardoso/atomic-design-summary/blob/main/README.md)
 - [🔭 Metodologias CSS](https://github.com/jomarcardoso/css-metologogies/blob/main/README.md)
 - [🔭 Tipos avançados em TypeScript](https://github.com/jomarcardoso/advanced-types-typescript/blob/main/README.md)
+- [🔭 Proposta de processo de desenvolvimento Ágil](https://github.com/jomarcardoso/article-dev-process)
 
 And these are the projects that I contributed
 
