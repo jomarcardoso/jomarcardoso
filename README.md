@@ -48,10 +48,6 @@ My work:
   - TypeScript
   - Material UI
 - **[Frontend Course [PT-BR]](https://github.com/jomarcardoso/curso-frontend)**
-- **[Mabook](https://github.com/jomarcardoso/mabook)**
-  - Angular
-  - Firebase
-  - Bootstrap
 
 My articles [PT-BR]:
 
