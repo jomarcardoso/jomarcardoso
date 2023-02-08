@@ -9,6 +9,23 @@
 
 <br>
 
+## My work:
+
+### [Library: Ovos](https://github.com/jomarcardoso/ovos)
+  - TypeScript
+  - RxJS
+
+### [App: Caderninho de receitas[PT-BR] (recipe notebook)](https://github.com/jomarcardoso/saude-em-pontos-2)
+
+- Gatsby
+- TypeScript
+- Material UI
+
+| ![screen of ingredients](https://user-images.githubusercontent.com/27368585/217540894-c23ed355-2918-405e-b719-b5c79b9bed58.png) | ![screen of recipes](https://user-images.githubusercontent.com/27368585/217540549-5974c04a-bbcd-4895-947c-7ff7b82289ed.png) | ![screen of current recipe](https://user-images.githubusercontent.com/27368585/217540753-bd259231-70d7-4973-93b9-74f7ada93ed3.png) |
+| --- | --- | --- |
+
+### [Frontend Course [PT-BR]](https://github.com/jomarcardoso/curso-frontend)
+
 I'm an Web Developer and I’m currently learning about:
  
 - **Design system**
@@ -37,17 +54,6 @@ I find it easy to do:
 - **CSS and your strategies** (components, helpers, structure, resets...)
 - **functional programming**
 - **to teach**
-
-My work:
-
-- **[Library: Ovos](https://github.com/jomarcardoso/ovos)**
-  - TypeScript
-  - RxJS
-- **[App: "Saúde em Pontos" [PT-BR]](https://github.com/jomarcardoso/saude-em-pontos-2)**
-  - Gatsby
-  - TypeScript
-  - Material UI
-- **[Frontend Course [PT-BR]](https://github.com/jomarcardoso/curso-frontend)**
 
 My articles [PT-BR]:
 
