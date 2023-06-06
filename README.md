@@ -31,10 +31,9 @@ A static wiki website built with 2 repositories one public with the content and 
 - Angular
 - Bootstrap
 
-| ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/d8c076c9-d6ac-48fc-967b-7f2e5df8c6dc) | ![screenshot of the page of guide](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/af635b9e-e9a1-406e-83d0-d2504e20de70) | ![screenshot of patch notes](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/d2ce65c3-d622-4daa-aacf-656a365a9a30) |
-| --- | --- | --- |
-| ![screenshot of character overview](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/4593e689-8812-4093-a923-7573dc36bc9a) | ![screenshot of an item](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/c1d7571f-4b8b-4cd5-9934-6ba0af9c164d) | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/6609be11-2e47-4a56-be91-8f2935c0480b) |
-| ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/55274ed1-8f48-4322-88bf-d3f4ca128c41) | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/9a1ab00a-4fb8-41da-8be5-66e568840763) | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/6a2c7fab-5c33-4727-8cd1-f1488f551dc3) |
+| ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/d8c076c9-d6ac-48fc-967b-7f2e5df8c6dc) | ![screenshot of the page of guide](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/af635b9e-e9a1-406e-83d0-d2504e20de70) | ![screenshot of patch notes](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/d2ce65c3-d622-4daa-aacf-656a365a9a30) | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/3b9e412a-e518-440f-8f92-897a58b0f252) | ![screenshot of character overview](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/4593e689-8812-4093-a923-7573dc36bc9a) |
+| --- | --- | --- | --- | --- |
+| ![screenshot of an item](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/c1d7571f-4b8b-4cd5-9934-6ba0af9c164d) | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/6609be11-2e47-4a56-be91-8f2935c0480b) | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/55274ed1-8f48-4322-88bf-d3f4ca128c41) | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/9a1ab00a-4fb8-41da-8be5-66e568840763) | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/6a2c7fab-5c33-4727-8cd1-f1488f551dc3) |
 
 
 
