@@ -21,8 +21,20 @@
 - TypeScript
 - Material UI
 
-| ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/f487ffe2-e54a-43bb-bf44-061e7e6c859c) | ![screen of ingredients](https://user-images.githubusercontent.com/27368585/217540894-c23ed355-2918-405e-b719-b5c79b9bed58.png) | ![screen of recipes](https://user-images.githubusercontent.com/27368585/217540549-5974c04a-bbcd-4895-947c-7ff7b82289ed.png) | ![screen of current recipe](https://user-images.githubusercontent.com/27368585/217540753-bd259231-70d7-4973-93b9-74f7ada93ed3.png) | 
+| ![screen of edit recipe](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/f487ffe2-e54a-43bb-bf44-061e7e6c859c) | ![screen of ingredients](https://user-images.githubusercontent.com/27368585/217540894-c23ed355-2918-405e-b719-b5c79b9bed58.png) | ![screen of recipes](https://user-images.githubusercontent.com/27368585/217540549-5974c04a-bbcd-4895-947c-7ff7b82289ed.png) | ![screen of current recipe](https://user-images.githubusercontent.com/27368585/217540753-bd259231-70d7-4973-93b9-74f7ada93ed3.png) | 
 | --- | --- | --- | --- |
+
+### [LostMu.wiki website](https://github.com/jomarcardoso/lost-mu-wiki)
+
+A static wiki website built with 2 repositories one public with the content and assets and other private wtih the code of the website.
+
+- Angular
+- Bootstrap
+
+| ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/d8c076c9-d6ac-48fc-967b-7f2e5df8c6dc) | ![screenshot of the page of guide](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/af635b9e-e9a1-406e-83d0-d2504e20de70) | ![screenshot of patch notes](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/d2ce65c3-d622-4daa-aacf-656a365a9a30) |
+| --- | --- | --- |
+| ![screenshot of character overview](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/4593e689-8812-4093-a923-7573dc36bc9a) | ![screenshot of an item](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/c1d7571f-4b8b-4cd5-9934-6ba0af9c164d) | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/6609be11-2e47-4a56-be91-8f2935c0480b) |
+
 
 ### [Frontend Course [PT-BR]](https://github.com/jomarcardoso/curso-frontend)
 
