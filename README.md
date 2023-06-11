@@ -15,7 +15,7 @@
   - TypeScript
   - RxJS
 
-### [App: Caderninho de receitas[PT-BR] (recipe notebook)](https://github.com/jomarcardoso/saude-em-pontos-2)
+### [App: Caderninho de receitas[PT-BR] (recipe notebook)](https://github.com/jomarcardoso/caderninho-de-receitas)
 
 - Gatsby
 - TypeScript
