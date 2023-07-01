@@ -53,10 +53,10 @@ I'm an Web Developer and I’m currently learning about:
 
 My tecnology knowledges:
 
-- **JavasSript:** TypeScript, React.JS, funcional programing, Jest.
-- **CSS:** Atomic Design, Design System, SASS.
+- **JavasSript:** TypeScript, React, Angular, funcional programing, Jest.
+- **CSS:** Atomic Design, Design System, BEM, RSCSS, SASS.
 - **SSR:** Gatsby, JSP, AMP,
-- **Acessibility:** W3C Directives, eMag.
+- **Acessibility:** W3C Directives, eMag, NVDA, TalkBack, VoiceOverd.
 - **DevOps:** Travis CI, Jenkins Pipeline, Monorepos, Webpack, Gulp.
 - **Google:** Tag Manager, Optimize, Analytics.
 - **Minor knowledge:** Express, SQL, Java, Orientation Object, Gimp.
