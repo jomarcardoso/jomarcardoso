@@ -35,10 +35,11 @@ A static wiki website built with 2 repositories one public with the content and 
 | --- | --- | --- | --- | --- |
 | ![screenshot of an item](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/c1d7571f-4b8b-4cd5-9934-6ba0af9c164d) | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/6609be11-2e47-4a56-be91-8f2935c0480b) | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/55274ed1-8f48-4322-88bf-d3f4ca128c41) | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/9a1ab00a-4fb8-41da-8be5-66e568840763) | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/6a2c7fab-5c33-4727-8cd1-f1488f551dc3) |
 
-
-
-
 ### [Frontend Course [PT-BR]](https://github.com/jomarcardoso/curso-frontend)
+
+To teach the frontend development following the evolution of the technology
+
+---
 
 I'm an Web Developer and I’m currently learning about:
  
