@@ -37,7 +37,7 @@ A static wiki website built with 2 repositories one public with the content and 
 
 ### [Frontend Course [PT-BR]](https://github.com/jomarcardoso/curso-frontend)
 
-To teach the frontend development following the evolution of the technology
+The proposal of this project is to teach the development of websites with small achievements. Every class the student wilb be able to do something new or better than before. The ideia is to follow the evolution of the web, starting with only texts on pages and step by step introducing topics such as CSS, JS, forms...
 
 ---
 
