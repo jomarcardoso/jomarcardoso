@@ -92,6 +92,7 @@ My articles [PT-BR]:
 - [Como React funciona](https://github.com/jomarcardoso/quickly-how-react-works)
 - [Anti Pattern e Design Pattern para o paradigma Funcional + React](https://github.com/jomarcardoso/anti-pattern-and-functional-design-patterns)
 - [TypeScriptLess](https://github.com/jomarcardoso/dojo-typeScriptLess)
+- [Angular VS React](https://github.com/jomarcardoso/angular-vs-react)
 - [🔭 Do not trust developers](https://github.com/jomarcardoso/dojo-escapeFromHelpOnJS)
 - [🔭 Visual Components](https://github.com/jomarcardoso/visual-components)
 - [🔭 JS Code Smells](https://github.com/jomarcardoso/dojo-CodeSmellJS)
