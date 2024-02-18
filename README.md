@@ -93,6 +93,7 @@ My articles [PT-BR]:
 - [Anti Pattern e Design Pattern para o paradigma Funcional + React](https://github.com/jomarcardoso/anti-pattern-and-functional-design-patterns)
 - [TypeScriptLess](https://github.com/jomarcardoso/dojo-typeScriptLess)
 - [Angular VS React](https://github.com/jomarcardoso/angular-vs-react)
+- [A proposal of a design system model](https://github.com/jomarcardoso/design-system-model)
 - [🔭 Do not trust developers](https://github.com/jomarcardoso/dojo-escapeFromHelpOnJS)
 - [🔭 Visual Components](https://github.com/jomarcardoso/visual-components)
 - [🔭 JS Code Smells](https://github.com/jomarcardoso/dojo-CodeSmellJS)
