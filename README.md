@@ -1,4 +1,4 @@
-# Hi, I am Jomar Antônio Cardoso [<img width="28" alt="linkedin" src="https://github.com/jomarcardoso/jomarcardoso/assets/27368585/674c5209-cf94-4b6f-b86b-26a39edd07ca">](https://www.linkedin.com/in/jomar-ant%C3%B4nio-cardoso/)
+# Hi, I am Jomar Antônio Cardoso [<img width="28" alt="linkedin" src="https://github.com/jomarcardoso/jomarcardoso/assets/27368585/674c5209-cf94-4b6f-b86b-26a39edd07ca">](https://www.linkedin.com/in/jomar-antonio-cardoso/)
 
 
 
