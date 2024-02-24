@@ -98,6 +98,7 @@ My articles [PT-BR]:
 - [Angular VS React](https://github.com/jomarcardoso/angular-vs-react)
 - [Do not trust in developers](https://github.com/jomarcardoso/dojo-escapeFromHelpOnJS)
 - [Visual Components](https://github.com/jomarcardoso/visual-components)
+- [🏗️ Write accessible HTML emails that work everywhere](https://github.com/jomarcardoso/email-with-html/tree/main)
 - [🏗️ A proposal of a design system model](https://github.com/jomarcardoso/design-system-model)
 - [🏗️ JS Code Smells](https://github.com/jomarcardoso/dojo-CodeSmellJS)
 - [🏗️ Frontend Patterns](https://github.com/jomarcardoso/dojo-FrontendPatterns)
