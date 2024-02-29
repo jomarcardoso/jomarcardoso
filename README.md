@@ -40,7 +40,7 @@ A static wiki website built with 2 repositories one public with the content and 
 
 ### [Frontend Course [PT-BR]](https://github.com/jomarcardoso/curso-frontend)
 
-The proposal of this project is to teach website development through incremental achievements. Each class, students will learn to implement something new or improve upon existing skills. The idea is to trace the evolution of web development, starting with basic text-only pages and gradually introducing topics such as CSS, JavaScript, forms, and more.
+The proposal of this project is to teach website development through incremental achievements. Each lesson, students will learn to implement something new or improve upon existing skills. The idea is to trace the evolution of web development, starting with basic text-only pages and gradually introducing topics such as CSS, JavaScript, forms, and more.
 
 ---
 
