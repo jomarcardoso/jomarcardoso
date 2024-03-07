@@ -1,16 +1,8 @@
 # Hi, I am Jomar Antônio Cardoso [<img width="28" alt="linkedin" src="https://github.com/jomarcardoso/jomarcardoso/assets/27368585/674c5209-cf94-4b6f-b86b-26a39edd07ca">](https://www.linkedin.com/in/jomar-antonio-cardoso/)
 
+<small>Software development engineer | Tech Lead | Frontend Developer | Accessibility forwarder | Angular | React</small>
 
-
-
- <div>
-  <a href="https://github.com/jomarcardoso">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jomarcardoso&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomarcardoso&layout=compact&langs_count=7&theme=default"/>
-  </a>
-</div>
-
-<br>
+I am a frontend developer skilled in Design System. Since 2020 I dedicated to make and maintain Style Guides of companies that I work. My main tasks are to develop components for web, to advise on accessibility and make intuitive documentation for those who consume the product.
 
 ## My work:
 
@@ -117,6 +109,15 @@ My articles [PT-BR]:
 And these are the projects that I contributed
 
 - [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y)
+
+<br>
+
+<div>
+  <a href="https://github.com/jomarcardoso">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jomarcardoso&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomarcardoso&layout=compact&langs_count=7&theme=default"/>
+  </a>
+</div>
 
 <!--
 **jomarcardoso/jomarcardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
