@@ -1,4 +1,4 @@
-# Hi, I am Jomar Antônio Cardoso [<img width="28" alt="linkedin" src="https://github.com/jomarcardoso/jomarcardoso/assets/27368585/674c5209-cf94-4b6f-b86b-26a39edd07ca">](https://www.linkedin.com/in/jomar-antonio-cardoso/)
+# Hi, I am Jomar Antônio Cardoso
 
 I am a frontend developer skilled in Design System. Since 2020 I dedicated to make and maintain Style Guides of companies that I work. My main tasks are to develop components for web, to advise on accessibility and make intuitive documentation for those who consume the product.
 
