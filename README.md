@@ -66,6 +66,7 @@ I find it easy to do:
 My articles [PT-BR]:
 
 - [Web Accesssibility Implementation Model](https://onedrive.live.com/?authkey=%21AAeLShjixe9fz84&cid=00664A182AE91239&id=664A182AE91239%2156186&parId=664A182AE91239%2155844&o=OneUp)
+- [Accessibility articles](https://github.com/jomarcardoso/accessibility/tree/main/articles)
 - [JS Modules](https://github.com/jomarcardoso/dojo-jsmodules)
 - [Teste AB](https://github.com/jomarcardoso/article-ab-test/blob/main/README.md)
 - [Atomic Design](https://github.com/jomarcardoso/dojo-AtomicDesign)
@@ -77,7 +78,6 @@ My articles [PT-BR]:
 - [Unwritten rules of React](https://github.com/jomarcardoso/dojo-react-rules)
 - [Java mania on JavaScript](https://github.com/jomarcardoso/dojo-JavaOnJavascript)
 - [WCAG](https://github.com/jomarcardoso/article-diretrizes-de-acessibilidade-wcag)
-- [Accessibility and Universal Design](https://github.com/jomarcardoso/accessibility-and-universal-design)
 - [Refactoring](https://github.com/jomarcardoso/dojo-refactoring)
 - [Documentação de softwares para usuários](https://github.com/jomarcardoso/dojo-userDocumentations)
 - [Commponentes visuais com BEM CSS](https://github.com/jomarcardoso/dojo-css-components)
