@@ -74,7 +74,6 @@ My articles [PT-BR]:
 - [TypeScript vs JavaScript](https://github.com/jomarcardoso/dojo-typescript-vs-javascript)
 - [Redux](https://github.com/jomarcardoso/dojo-Redux)
 - [How a Web page works?](https://github.com/jomarcardoso/dojo-PaginaWeb)
-- [Accessibility for devs - part 1](https://github.com/jomarcardoso/dojo-accessibility-vs-dev)
 - [Unwritten rules of React](https://github.com/jomarcardoso/dojo-react-rules)
 - [Java mania on JavaScript](https://github.com/jomarcardoso/dojo-JavaOnJavascript)
 - [WCAG](https://github.com/jomarcardoso/article-diretrizes-de-acessibilidade-wcag)
