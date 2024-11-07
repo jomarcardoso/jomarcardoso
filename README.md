@@ -4,10 +4,6 @@ I am a frontend developer skilled in Design System. Since 2020 I dedicated to ma
 
 ## My work:
 
-### [Library: Ovos](https://github.com/jomarcardoso/ovos)
-  - TypeScript
-  - RxJS
-
 ### [App: Caderninho de receitas[PT-BR] (recipe notebook)](https://github.com/jomarcardoso/caderninho-de-receitas)
 
 - Gatsby
@@ -27,6 +23,22 @@ A static wiki website built with 2 repositories one public with the content and 
 | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/d8c076c9-d6ac-48fc-967b-7f2e5df8c6dc) | ![screenshot of the page of guide](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/af635b9e-e9a1-406e-83d0-d2504e20de70) | ![screenshot of patch notes](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/d2ce65c3-d622-4daa-aacf-656a365a9a30) | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/3b9e412a-e518-440f-8f92-897a58b0f252) | ![screenshot of character overview](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/4593e689-8812-4093-a923-7573dc36bc9a) |
 | --- | --- | --- | --- | --- |
 | ![screenshot of an item](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/c1d7571f-4b8b-4cd5-9934-6ba0af9c164d) | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/6609be11-2e47-4a56-be91-8f2935c0480b) | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/55274ed1-8f48-4322-88bf-d3f4ca128c41) | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/9a1ab00a-4fb8-41da-8be5-66e568840763) | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/6a2c7fab-5c33-4727-8cd1-f1488f551dc3) |
+
+### [App for stock control](https://github.com/jomarcardoso/js-stock-control-with-xlsx-database)
+
+- Next.js
+- [Google Cloud](https://console.cloud.google.com/apis/dashboard)
+- [Google APIs Node.js Client](https://googleapis.dev/nodejs/googleapis/latest/sheets/index.html#authentication-and-authorization)
+- [Google spreadsheets API](https://developers.google.com/sheets/api/guides/values)
+- Native light and dark modes
+- [System.css](https://projects.dutchcelt.com/system.css/)
+
+| ![stock-control-1](https://github.com/user-attachments/assets/879b5ea6-55c2-44c6-8d4d-7325320dce3c) | ![stock-control-2](https://github.com/user-attachments/assets/4884b7d6-a317-48ab-8bd2-0e866512e746) | ![stock-control-3](https://github.com/user-attachments/assets/d1631d49-b0ee-4940-8558-bc5a7a8d38cc) | ![stock-control-4](https://github.com/user-attachments/assets/0b44b671-03ce-404a-b191-f570dcf92088) | ![stock-control-5](https://github.com/user-attachments/assets/9e6e1882-4ae5-4b08-afb9-171cb6a758a1) |
+| --- | --- | --- | --- | --- |
+
+### [Library: Ovos](https://github.com/jomarcardoso/ovos)
+  - TypeScript
+  - RxJS
 
 ### [Frontend Course [PT-BR]](https://github.com/jomarcardoso/curso-frontend)
 
