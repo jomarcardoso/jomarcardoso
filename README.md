@@ -1,24 +1,23 @@
 # Hi, I am Jomar Antônio Cardoso
 
-I am a Front-End Software Engineer specialising in Design Systems and web accessibility. Since 2020, I have been dedicated to creating and maintaining Style Guides for the companies I work for. My main responsibilities include developing components for web applications, providing accessibility guidance, and creating intuitive documentation for those using our solutions. I am always learning and eager to share my knowledge.
+I am a Front-End Software Engineer specialising in Design Systems, documentation and web accessibility. Since 2020, I have been dedicated to creating and maintaining Style Guides for the companies I work for. My main responsibilities include developing components for web applications, providing accessibility guidance, and creating intuitive documentation for those using our solutions. I am always learning and eager to share my knowledge.
 
 ## My work:
 
 ### [App: Caderninho de receitas[PT-BR] (recipe notebook)](https://github.com/jomarcardoso/caderninho-de-receitas)
 
-- Gatsby
-- TypeScript
-- Material UI
+An app to write recipes that detect ingredients and quantities and answer with a nutrition table.
+
+**Skills:** React.js · Formik · SASS · Atomic Design · Lodash.js · GatsbyJS · Stylelint · Material-UI · TypeScript · ESLint · Prettier
 
 | ![screen of edit recipe](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/f487ffe2-e54a-43bb-bf44-061e7e6c859c) | ![screen of ingredients](https://user-images.githubusercontent.com/27368585/217540894-c23ed355-2918-405e-b719-b5c79b9bed58.png) | ![screen of recipes](https://user-images.githubusercontent.com/27368585/217540549-5974c04a-bbcd-4895-947c-7ff7b82289ed.png) | ![screen of current recipe](https://user-images.githubusercontent.com/27368585/217540753-bd259231-70d7-4973-93b9-74f7ada93ed3.png) | 
 | --- | --- | --- | --- |
 
 ### [LostMu.wiki website](https://lostmu.wiki/)
 
-A static wiki website built with 2 repositories one public with the content and assets and other private wtih the code of the website.
+This project is a wiki website of a game that I played when I was young. I'm making this in two places: the website code is closed in a private GitHub repository and the wiki content is storaged in an open repository. The website is static, no server running, and made with Angular. The challenge to build it is read the wide variety of content from the open wiki, such as Markdown, JSON and many file paths.
 
-- Angular
-- Bootstrap
+**Skills:** Bootstrap · Chart.js · TypeScript · RxJS · Semantic Web · Node.js · Angular (Framework)
 
 | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/d8c076c9-d6ac-48fc-967b-7f2e5df8c6dc) | ![screenshot of the page of guide](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/af635b9e-e9a1-406e-83d0-d2504e20de70) | ![screenshot of patch notes](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/d2ce65c3-d622-4daa-aacf-656a365a9a30) | ![image](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/3b9e412a-e518-440f-8f92-897a58b0f252) | ![screenshot of character overview](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/4593e689-8812-4093-a923-7573dc36bc9a) |
 | --- | --- | --- | --- | --- |
@@ -37,8 +36,18 @@ A static wiki website built with 2 repositories one public with the content and 
 | --- | --- | --- | --- | --- |
 
 ### [Library: Ovos](https://github.com/jomarcardoso/ovos)
-  - TypeScript
-  - RxJS
+
+A library to help controlling scrolls, mouse movements and touch.
+
+Some tools in this library:
+
+- carousel
+- scroll spy
+- 360 images
+- sticky header
+- parallax
+
+**Skills:** Jest · TypeScript · RxJS · ESLint · Travis CI · Webpack · Prettier
 
 ### [Frontend Course [PT-BR]](https://github.com/jomarcardoso/curso-frontend)
 
