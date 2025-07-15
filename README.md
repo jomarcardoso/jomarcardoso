@@ -37,7 +37,7 @@ This project is a wiki website of a game that I played when I was young. I'm mak
 
 ### [Library: Ovos](https://github.com/jomarcardoso/ovos)
 
-A library to help controlling scrolls, mouse movements and touch.
+A library to help control scrolls, mouse movements and touch.
 
 Some tools in this library:
 
@@ -55,7 +55,7 @@ The proposal of this project is to teach website development through incremental
 
 ---
 
-I'm an Web Developer and I’m currently learning about:
+I'm a Web Developer and I’m currently learning about:
  
 - **Design system**
 - **Motion design**
@@ -66,12 +66,12 @@ I'm an Web Developer and I’m currently learning about:
 - **RxJS**
 - **Web Components**
 
-My tecnology knowledges:
+My technological knowledge:
 
-- **JavasSript:** TypeScript, React, Angular, funcional programing, Jest.
+- **JavaScript:** TypeScript, React, Angular, functional programming, Jest.
 - **CSS:** Atomic Design, Design System, BEM, RSCSS, SASS.
 - **SSR:** Gatsby, JSP, AMP,
-- **Acessibility:** W3C Directives, eMag, NVDA, TalkBack, VoiceOverd.
+- **Accessibility:** W3C Directives, eMag, NVDA, TalkBack, VoiceOver.
 - **DevOps:** Travis CI, Jenkins Pipeline, Monorepos, Webpack, Gulp.
 - **Google:** Tag Manager, Optimize, Analytics.
 - **Minor knowledge:** Express, SQL, Java, Orientation Object, Gimp.
@@ -86,7 +86,7 @@ I find it easy to do:
 
 My articles [PT-BR]:
 
-- [Web Accesssibility Implementation Model](https://1drv.ms/b/c/00664a182ae91239/ETkS6SoYSmYggAB62wAAAAABqNOTkHBZeoL04DcwceR00A?e=GWIriI)
+- [Web Accessibility Implementation Model](https://1drv.ms/b/c/00664a182ae91239/ETkS6SoYSmYggAB62wAAAAABqNOTkHBZeoL04DcwceR00A?e=GWIriI)
 - [Accessibility articles](https://github.com/jomarcardoso/accessibility/tree/main/articles)
 - [JS Modules](https://github.com/jomarcardoso/dojo-jsmodules)
 - [Teste AB](https://github.com/jomarcardoso/article-ab-test/blob/main/README.md)
@@ -125,7 +125,7 @@ My articles [PT-BR]:
 - [🏗️ Tipos avançados em TypeScript](https://github.com/jomarcardoso/advanced-types-typescript/blob/main/README.md)
 - [🏗️ Proposta de processo de desenvolvimento Ágil](https://github.com/jomarcardoso/article-dev-process)
 
-And these are the projects that I contributed
+And these are the projects that I contributed to
 
 - [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y)
 
