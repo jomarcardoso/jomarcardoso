@@ -86,7 +86,7 @@ I find it easy to do:
 
 My articles [PT-BR]:
 
-- [Web Accesssibility Implementation Model](https://onedrive.live.com/?authkey=%21AAeLShjixe9fz84&cid=00664A182AE91239&id=664A182AE91239%2156186&parId=664A182AE91239%2155844&o=OneUp)
+- [Web Accesssibility Implementation Model](https://1drv.ms/b/c/00664a182ae91239/ETkS6SoYSmYggAB62wAAAAABqNOTkHBZeoL04DcwceR00A?e=GWIriI)
 - [Accessibility articles](https://github.com/jomarcardoso/accessibility/tree/main/articles)
 - [JS Modules](https://github.com/jomarcardoso/dojo-jsmodules)
 - [Teste AB](https://github.com/jomarcardoso/article-ab-test/blob/main/README.md)
