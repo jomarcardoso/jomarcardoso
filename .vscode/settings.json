@@ -7,11 +7,10 @@
   "editor.rulers": [80],
   // passa a bola para extensões como prettier e stylelint
   "editor.codeActionsOnSave": {
-    "source.fixAll": true
+    "source.fixAll": "explicit"
   },
   "files.trimTrailingWhitespace": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  
   // ### prettier ###
   "prettier.arrowParens": "always",
   "prettier.singleQuote": true,
@@ -23,9 +22,8 @@
   "prettier.jsxSingleQuote": false,
   "prettier.trailingComma": "all",
   "prettier.bracketSpacing": true,
-  "prettier.jsxBracketSameLine": false,
+  "prettier.bracketSameLine": false,
   "prettier.endOfLine": "auto",
-
   // ### JS/TS ###
   "tslint.autoFixOnSave": true,
   "emmet.includeLanguages": {
@@ -41,36 +39,48 @@
   "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": false,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "javascript.updateImportsOnFileMove.enabled": "always",
-
   // ### CSS/SCSS ###
   "stylelint.autoFixOnSave": true,
   "[scss]": {
     "editor.wordSeparators": "`~!@#%^*()-=+[{]}\\|;:'\",.<>/?"
   },
-
   // ### HTML ###
   "[html]": {
     // pois o prettier não faz isso bem
-    "editor.defaultFormatter": "vscode.html-language-features",
+    "editor.defaultFormatter": "vscode.html-language-features"
   },
   "html.format.wrapLineLength": 80,
   // quebra a linha de uma forma inteligente
   "html.format.wrapAttributes": "preserve",
-
   // ### PHP ###
   "[php]": {
-    "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?",
+    "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?"
   },
-  
+  // ### RUST ###
+  "[rust]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.defaultFormatter": "rust-lang.rust-analyzer",
+    "editor.formatOnSave": true
+  },
+  // ### C# ###
+  "[csharp]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "ms-dotnettools.csharp",
+    "editor.useEditorConfig": true
+  },
+
+  // ## markdown
   "[markdown]": {
     "editor.wordWrap": "on",
     "editor.renderWhitespace": "all",
     "editor.acceptSuggestionOnEnter": "off"
   },
-
   // ### terminal ###
-
-  "terminal.integrated.profiles.osx":  {
+  "terminal.integrated.profiles.osx": {
     "bash": {
       "path": "C:\\Program Files\\Git\\bin\\bash.exe"
     }
@@ -78,12 +88,10 @@
   "terminal.external.windowsExec": "C:\\Program Files\\Git\\bin\\bash.exe",
   "terminal.integrated.automationShell.windows": null,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-
   // ### git ###
   "git.confirmSync": false,
   "git.autofetch": true,
   "diffEditor.ignoreTrimWhitespace": false,
-
   // ### outros ###
   "search.exclude": {
     "**/*.snap": true,
@@ -94,4 +102,18 @@
   "editor.fontSize": 15,
   "explorer.confirmDelete": false,
   "editor.suggestSelection": "first",
+  "workbench.colorTheme": "Default Light+",
+  "amazonQ.suppressPrompts": {
+    "amazonQChatDisclaimer": true
+  },
+  "database-client.autoSync": true,
+  "chat.instructionsFilesLocations": {
+    ".github/instructions": true,
+    "C:\\Users\\anton\\AppData\\Local\\Temp\\postman-collections-post-response.instructions.md": true,
+    "C:\\Users\\anton\\AppData\\Local\\Temp\\postman-collections-pre-request.instructions.md": true,
+    "C:\\Users\\anton\\AppData\\Local\\Temp\\postman-folder-post-response.instructions.md": true,
+    "C:\\Users\\anton\\AppData\\Local\\Temp\\postman-folder-pre-request.instructions.md": true,
+    "C:\\Users\\anton\\AppData\\Local\\Temp\\postman-http-request-post-response.instructions.md": true,
+    "C:\\Users\\anton\\AppData\\Local\\Temp\\postman-http-request-pre-request.instructions.md": true
+  }
 }
