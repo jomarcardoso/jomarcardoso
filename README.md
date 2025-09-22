@@ -1,6 +1,6 @@
 # Hi, I am Jomar Antônio Cardoso
 
-I am a Front-End Software Engineer specialising in Design Systems, documentation and web accessibility. Since 2020, I have been dedicated to creating and maintaining Style Guides for the companies I work for. My main responsibilities include developing components for web applications, providing accessibility guidance, and creating intuitive documentation for those using our solutions. I am always learning and eager to share my knowledge.
+I have been working as a Software Development Engineer since 2017. As a full-stack developer, I work on the backend with C# and Node.js, and I specialize in frontend development with experience in Angular and React. My main expertise lies in the management and development of design systems, technical documentation, and web accessibility improvements.
 
 ## My work:
 
