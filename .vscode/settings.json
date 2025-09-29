@@ -10,6 +10,8 @@
     "source.fixAll": "explicit"
   },
   "files.trimTrailingWhitespace": true,
+  "files.encoding": "utf8",
+  "files.autoGuessEncoding": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   // ### prettier ###
   "prettier.arrowParens": "always",
@@ -83,6 +85,16 @@
   "terminal.integrated.profiles.osx": {
     "bash": {
       "path": "C:\\Program Files\\Git\\bin\\bash.exe"
+    },
+    "PowerShell-UTF8": {
+      "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "args": [
+        "-NoLogo",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-Command",
+        "[Console]::OutputEncoding = [System.Text.Encoding]::UTF8; [Console]::InputEncoding = [System.Text.Encoding]::UTF8;"
+      ]
     }
   },
   "terminal.external.windowsExec": "C:\\Program Files\\Git\\bin\\bash.exe",
@@ -102,7 +114,7 @@
   "editor.fontSize": 15,
   "explorer.confirmDelete": false,
   "editor.suggestSelection": "first",
-  "workbench.colorTheme": "Default Light+",
+  "workbench.colorTheme": "Default Dark+",
   "amazonQ.suppressPrompts": {
     "amazonQChatDisclaimer": true
   },
