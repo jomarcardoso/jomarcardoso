@@ -8,7 +8,7 @@ I have been working as a Software Development Engineer since 2017. As a full-sta
 
 An app to write recipes that detect ingredients and quantities and answer with a nutrition table.
 
-**Skills:** React.js · Formik · SASS · Atomic Design · Lodash.js · GatsbyJS · Stylelint · Material-UI · TypeScript · ESLint · Prettier
+**Skills:** C# · ASP.NET Core · Entity Framework · React.js · Google Auth · Formik · SASS · Atomic Design · Lodash.js · GatsbyJS · Stylelint · Material-UI · TypeScript · ESLint · Prettier
 
 | ![screen of edit recipe](https://github.com/jomarcardoso/jomarcardoso/assets/27368585/f487ffe2-e54a-43bb-bf44-061e7e6c859c) | ![screen of ingredients](https://user-images.githubusercontent.com/27368585/217540894-c23ed355-2918-405e-b719-b5c79b9bed58.png) | ![screen of recipes](https://user-images.githubusercontent.com/27368585/217540549-5974c04a-bbcd-4895-947c-7ff7b82289ed.png) | ![screen of current recipe](https://user-images.githubusercontent.com/27368585/217540753-bd259231-70d7-4973-93b9-74f7ada93ed3.png) | 
 | --- | --- | --- | --- |
